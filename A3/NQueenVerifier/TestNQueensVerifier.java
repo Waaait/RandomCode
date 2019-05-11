@@ -1,5 +1,4 @@
 //Name: Weiting Li
-//COMP 1731
 //Assignment 3, problem 2
 //Apr 2.2019
 import java.util.*;
