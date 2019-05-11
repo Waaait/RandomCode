@@ -1,5 +1,4 @@
 //Name: Weiting Li
-//COMP 1731
 //Mar 29. 2019
 //Assignment 3, Hotmail
 import java.util.*;
