@@ -1,5 +1,4 @@
 //name: Weiting Li
-//COMP 1731
 //assignment 2, problem 3
 //Mar 12,2019
 
